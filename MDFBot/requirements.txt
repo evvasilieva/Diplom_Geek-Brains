@@ -1,0 +1,7 @@
+Python v3.12
+VScode
+SQLlite studio
+Aiogram v3
+Sqlalchemy
+aiosqlite
+
